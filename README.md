@@ -1,9 +1,12 @@
 ![./book-cover.jpg]
 
+![Cover Page](book-cover.png "This isthe book cover")
 
-Title: A Lent to Remember
 
-Table of Contents
+
+#### Title: A Lent to Remember
+
+**Table of Contents**
 
 Introduction: A Family’s Journey Through Lent
 
