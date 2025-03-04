@@ -1,4 +1,4 @@
-![./e-book-cover.webp]
+![./book-cover.jpgxx]
 
 
 Title: A Lent to Remember
