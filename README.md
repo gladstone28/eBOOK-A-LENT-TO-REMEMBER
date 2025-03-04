@@ -1,6 +1,5 @@
-![./book-cover.jpg]
 
-![Cover Page](book-cover.png "This isthe book cover")
+![Cover Page](book-cover.jpg "This isthe book cover")
 
 
 
